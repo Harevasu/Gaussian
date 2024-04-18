@@ -47,7 +47,6 @@ for i in range(n):
 
 
 ## Output:
-![gaussian elimination]()
 ![alt text](image.png)
 
 ## Result:
