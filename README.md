@@ -31,8 +31,6 @@ for i in range(n):
 for i in range(n):
     if a[i][j]==0.0:
         sys.exit('Divide by zero detected!')
-```
-```
 for i in range(n):
     for j in range(i+1,n):
         ratio = a[j][i]/a[i][i]
